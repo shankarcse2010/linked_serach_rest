@@ -1,0 +1,13 @@
+.mt-15{
+    margin-top: 15px !important;
+}
+.mt-30{
+    margin-top: 30px !important;
+}
+.well{
+    box-shadow: 0 0 30px black;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, .5);
+}
+.table-wrapper{
+    width: 100%;
+}
